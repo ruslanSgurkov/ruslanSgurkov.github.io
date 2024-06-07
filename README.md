@@ -43,5 +43,6 @@ By sharing my experiences, including successes and setbacks, I hope to offer som
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- So you want to be a SOC Analyst? (part 1-4)
+- TryHackMe Cyber Defense path
+- The Definitive GRC Analyst Master Class
