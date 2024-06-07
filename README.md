@@ -12,8 +12,10 @@ By sharing my experiences, including successes and setbacks, I hope to offer som
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Setting up VMs, SIEM and Log Analysis (Lima Charlie), Network Traffic Monitoring and Attack Detection       | <a href="https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-part">So you want to be a SOC Analyst? (part 1-4)</a>|
+| Network Traffic Analysis, Understanding of Active Directory, Vulnerability Scanning (Nessus), SIEM (Splunk), Windows event logs, Syinternals  | <a href="https://google.com">TryHackMe Cyber Defense path</a>|
+|NIST 800-53, NIST RMF, Policy Writing, Policy Audit|<a href="https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-part">The Definitive GRC Analyst Master Class</a>|
+
 
 
 ## Tools
